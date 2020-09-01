@@ -14,7 +14,7 @@ This program counts the number of Hamiltonian paths in a grid of *m x n* points,
 
 As the user computes values, results are appended in CSV tables in the "tables" folder. For example here is the adjacent path count table for *m, n <= 7*:
 
-![adjacent path count table](docs/gridtable.PNG)
+![adjacent path count table](docs/gridtable.png)
 
 
 ## How to build
